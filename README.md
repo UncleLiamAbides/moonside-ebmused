@@ -22,7 +22,7 @@ For an introduction to music editing, see the [EBMusEd tutorials on the CoilSnak
 The existing sequence-editing workflow remains an important part of Moonside. New visual editing features are intended to complement it, not require experienced users to relearn everything.
 
 
-### Linux and macOS
+## Linux and macOS support
 
 Native support is **planned**. Build instructions will be added once the relevant ports are usable. Windows binaries should not be assumed to run natively on either platform.
 I'm trying to port it to GTK for Linux at this moment.
